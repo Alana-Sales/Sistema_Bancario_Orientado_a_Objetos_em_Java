@@ -1,6 +1,6 @@
 # Sistema Bancário Orientado a Objetos em Java
 
-Este projeto simula um sistema bancário simples com cadastro de cliente e até 3 contas por cliente, com operações de crédito e débito.
+Este projeto simula um sistema bancário simples com cadastro de cliente e até três contas por cliente, com operações de crédito e débito.
 
 ## Funcionalidades
 - Cadastro de cliente com CPF, nome e endereço.
